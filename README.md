@@ -1,2 +1,2 @@
-# project-dump
-# this is where i dump my various projects to be built into apk
+# loginscreen-ver1
+# loginscreen with KivyMD ver1 - apk built and functional
